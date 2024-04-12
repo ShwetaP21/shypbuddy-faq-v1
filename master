@@ -1,0 +1,54 @@
+[33mcommit a4b1abd6a283e1e18bdc6dd8f986644727d145f6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: b254c20 bdd1231
+Author: AjayBThorat-20 <ajaythorat988@gmail.com>
+Date:   Wed Apr 10 11:24:57 2024 +0530
+
+    Merge branch 'master' of https://github.com/Jainam0401/shypbuddy-v1-faq
+
+[33mcommit b254c2093616aeea9eae3fc08981c0104739eba0[m
+Author: AjayBThorat-20 <ajaythorat988@gmail.com>
+Date:   Wed Apr 10 11:24:07 2024 +0530
+
+    faq page
+
+[33mcommit bdd12310aabe1648fe166bc0612b416d61ef061a[m
+Author: Jainam0401 <jainammithalaljain@gmail.com>
+Date:   Tue Apr 9 01:27:20 2024 +0530
+
+    hero component by Jainam
+
+[33mcommit 9e12f616e352bec47248e288ac2a91280efacdbf[m
+Author: Jainam0401 <jainammithalaljain@gmail.com>
+Date:   Sun Apr 7 20:06:37 2024 +0530
+
+    hero sections
+
+[33mcommit 8b6af6abd7ae2a23d5084095c6cc00f45310a4d8[m
+Author: Jainam0401 <jainammithalaljain@gmail.com>
+Date:   Sun Apr 7 18:54:59 2024 +0530
+
+    Changes by Jainam
+
+[33mcommit e65b4a50dd5684016f48abd25f88f2096b55895d[m
+Author: shypbuddy <tech@shypbuddy.com>
+Date:   Sat Apr 6 18:58:52 2024 +0530
+
+    changes by jainam dipesh shweta
+
+[33mcommit d6d50ace797f02c53d4922a35eb6e852f70aa772[m
+Author: shypbuddy <tech@shypbuddy.com>
+Date:   Thu Apr 4 18:36:12 2024 +0530
+
+    accordion
+
+[33mcommit 4b346837942add5d8250bea7c47526304270cfd0[m
+Author: shypbuddy <tech@shypbuddy.com>
+Date:   Wed Apr 3 16:00:58 2024 +0530
+
+    first commit folder  strucutre
+
+[33mcommit 1dadb3384f2e40f937e6a946487a36fa7a2e0e45[m
+Author: vatul16 <vishwa.atul16@gmail.com>
+Date:   Wed Apr 3 12:36:55 2024 +0530
+
+    Initial commit from Create Next App
